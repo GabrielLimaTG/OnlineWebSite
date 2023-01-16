@@ -252,10 +252,8 @@ background: linear-gradient(180deg, rgba(255,74,59,0) 0%, rgba(255,74,59,1) 100%
         justify-content: center;   
      }
 
-     .top, .top a img{
-        position: relative;
-        width: 35px;
-        height: 35px;
+     .top{
+        display: none;
      }
 }
 
