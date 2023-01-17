@@ -149,6 +149,7 @@ b{
     padding: 10px 0 10px 0;}
 
 .footer a{
+    max-width: 250px;
     position: relative;
     display: flex;
     justify-content: center;
