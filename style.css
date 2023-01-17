@@ -46,7 +46,7 @@ b{
 /*PAGE 2--------------------*/
 
 .page2{
-    background-image: url(./BACKGROUND/page2-v2.jpg);
+    background-image: url(./BACKGROUND/page2.png);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -109,7 +109,7 @@ b{
 
 /*PAGE 3------------------------*/
 .page3{
-    background-image: url(./BACKGROUND/page3.png);
+    background-image: url(./BACKGROUND/page3-v2.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
