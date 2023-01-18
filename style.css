@@ -139,7 +139,9 @@ b{
 }
 
 /*FOOTER------------------------*/
-
+footer{
+    display: flex;
+    
 .footer{position: absolute;
     width: 100%;
     max-width: 100%;
@@ -163,19 +165,24 @@ b{
 }
 
 .top{
+    
     position: absolute;
-    right: 7%;
-    width: 70px;
-    height: 70px;    
+    bottom: 10px;
+    right: 20px;  
 }
 
-.top a img{
-    width: 70px;
-    height: 70px;
-    border-radius: 100%;
+@import url(https://weloveiconfonts.com/api/?family=entypo);
 
+/* entypo */
+[class*="entypo-up-open-big"]:before {
+  font-family: 'entypo', sans-serif;
 }
 
+.entypo-up-open-big{
+    text-decoration: none;
+    font-size: 60px;
+    color: #000;
+}
 
 /*THANK YOU---------------------*/
 
